@@ -47,19 +47,24 @@ main{
 
 }
 
-aside1{
-    background-color: violet;
-    float: left;
-    width:25%;
-    /* height: 250px; */
+.sideright {
     margin-left: 10px;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
+    float: left;
+    width: 25%;
 }
 
-aside2{
+.box{
     background-color: violet;
-    float: right;
-    width:25%;
+    margin-bottom: 10px;
+    /* width:25%; */
+    /* height: 250px; */
+
+}
+
+.box{
+    background-color: violet;
+    /* width:25%; */
     /* height: 210px; */
     /* margin-left: 10px; */
     /* margin-top: 10px; */
@@ -74,4 +79,5 @@ footer{
     margin-left: 10px;
     margin-right: 10px;
     width: 100%;
+    float: left;
 }
